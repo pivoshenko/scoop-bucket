@@ -1,16 +1,16 @@
 {
-  "version": "1.2.1",
+  "version": "2.0.0",
   "description": "An extremely fast AI skills manager",
   "homepage": "https://github.com/pivoshenko/kasetto",
   "license": "MIT|Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/pivoshenko/kasetto/releases/download/v1.2.1/kasetto-x86_64-pc-windows-msvc.zip",
-      "hash": "fd9c54a9d8b43306f0f524170d32f1436d77d58ba387269d63592dc5eeac24bb"
+      "url": "https://github.com/pivoshenko/kasetto/releases/download/v2.0.0/kasetto-x86_64-pc-windows-msvc.zip",
+      "hash": "a2d6f2c554ffa5c632f0213b508cf5a515392e0c97d2fbab2ae810ab2e1f1087"
     },
     "arm64": {
-      "url": "https://github.com/pivoshenko/kasetto/releases/download/v1.2.1/kasetto-aarch64-pc-windows-msvc.zip",
-      "hash": "f27694189e5aebc6f77adda758d77c1b3ea2cb63ecb1be7c53477b1ab8b879fe"
+      "url": "https://github.com/pivoshenko/kasetto/releases/download/v2.0.0/kasetto-aarch64-pc-windows-msvc.zip",
+      "hash": "15c8f1321ade7036670bf06141c99e44c0c12a8178b578139ef2f4b2dc371867"
     }
   },
   "bin": ["kasetto.exe", "kst.exe"],
