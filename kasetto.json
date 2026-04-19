@@ -1,16 +1,16 @@
 {
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "A declarative AI agent environment manager, written in Rust.",
   "homepage": "https://github.com/pivoshenko/kasetto",
   "license": "MIT|Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/pivoshenko/kasetto/releases/download/v2.0.1/kasetto-x86_64-pc-windows-msvc.zip",
-      "hash": "eb9007e8c1e281934368c8f7af3c062b2bfa2e767c45eeaf627084e0b61f8769"
+      "url": "https://github.com/pivoshenko/kasetto/releases/download/v2.1.0/kasetto-x86_64-pc-windows-msvc.zip",
+      "hash": "783ccf20e48b0b50021ad0c561554c8963d357e0316b00f0c53f669a3842f45b"
     },
     "arm64": {
-      "url": "https://github.com/pivoshenko/kasetto/releases/download/v2.0.1/kasetto-aarch64-pc-windows-msvc.zip",
-      "hash": "eac5e1312500b8e2f85f916be12079ea5baac10f908da068afdcd943288bf7fb"
+      "url": "https://github.com/pivoshenko/kasetto/releases/download/v2.1.0/kasetto-aarch64-pc-windows-msvc.zip",
+      "hash": "12c855c34bf82f82c8d5bad528ae703a09c96b0e95fab373ec67a0f779592cce"
     }
   },
   "bin": ["kasetto.exe", "kst.exe"],
